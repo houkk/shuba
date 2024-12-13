@@ -1,0 +1,21 @@
+{
+  "name": "shuba",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hou Kai <houkai93@gmail.com>",
+  "license": "MIT",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "got": "^14.4.4",
+    "hpagent": "^1.2.0",
+    "iconv-lite": "^0.6.3"
+  }
+}
